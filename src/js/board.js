@@ -1,6 +1,6 @@
 export default class Board {
   constructor() {
-    this.boardSize = 3; // Изменено на 3 для сетки 3x3
+    this.boardSize = 3;
     this.character = 0;
   }
 
